@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: darkslategray;
+    margin: 10px;
+}
+
+h1, h2 {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+#main-header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card {
+    background-color: lightblue;
+    border: 2px solid steelblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+#special-section {
+    background-color: lightyellow;
+    padding: 20px;
+    margin: 15px;
+}
+
+p {
+    color: red;
+}
+
+.card p {
+    color: green;
+}
